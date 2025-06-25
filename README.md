@@ -1,3 +1,13 @@
+# SPORTS PRESS REST API TEST CODE
+This is project for testing code with sports press rest api
+
+sport press rest api \
+https://support.themeboy.com/category/339-rest-api
+
+
+<img src='https://github.com/perpet99/SportsPressReact/blob/master/img/1.png' alt='logo' />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
