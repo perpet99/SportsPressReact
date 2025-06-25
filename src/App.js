@@ -34,7 +34,7 @@ function WordPressPosts() {
         
       const postData = {
       title: 'test',
-      leagues: [4],
+      
       status: 'publish'
     };
 
